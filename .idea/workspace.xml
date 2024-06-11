@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378de140-828f-4986-b4c8-74860c24b3f0" name="Changes" comment="day 3 chenges" />
+    <list default="true" id="378de140-828f-4986-b4c8-74860c24b3f0" name="Changes" comment="My first Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,29 +46,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AllLocatorsPractice.executor": "Run",
-    "Application.GoogleSearch.executor": "Run",
-    "Application.Locators.executor": "Run",
-    "Application.NavigateToAmazon.executor": "Run",
-    "Application.SeleniumTest.executor": "Run",
-    "Application.T1_locators_getText.executor": "Run",
-    "Application.T2_getText_getAttribute.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "day__3",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Тоничка)/IdeaProjects/AutomationProjectB3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AllLocatorsPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GoogleSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Locators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigateToAmazon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeleniumTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.T1_locators_getText.executor&quot;: &quot;Run&quot;,
+    &quot;Application.T2_getText_getAttribute.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;day__3&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Тоничка)/IdeaProjects/AutomationProjectB3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.T2_getText_getAttribute">
     <configuration name="AllLocatorsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.loop.test.day3.AllLocatorsPractice" />
@@ -168,6 +168,7 @@
       <workItem from="1717941097287" duration="370000" />
       <workItem from="1717941553447" duration="14130000" />
       <workItem from="1718064674847" duration="988000" />
+      <workItem from="1718067734302" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="first pool">
       <option name="closed" value="true" />
@@ -217,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718065544764</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="My first Commit">
+      <option name="closed" value="true" />
+      <created>1718068087966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718068087966</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +246,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first pool" />
     <MESSAGE value="day 3 chenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3 chenges" />
+    <MESSAGE value="My first Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first Commit" />
   </component>
 </project>
