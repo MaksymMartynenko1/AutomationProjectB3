@@ -28,6 +28,5 @@ public class T2_getText_getAttribute {
         } else {
             System.err.println("Expected header for form: \"" + LoopCampConstants.EXPECTED_HEADER_FOR_FORM + "\", DOES NOT MATCH actual header: \"" + actualHeaderForForm + "\" => TEST FAILED");
         }
-
     }
 }
