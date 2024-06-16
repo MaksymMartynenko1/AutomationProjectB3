@@ -4,15 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378de140-828f-4986-b4c8-74860c24b3f0" name="Changes" comment="first pool">
+    <list default="true" id="378de140-828f-4986-b4c8-74860c24b3f0" name="Changes" comment="My first Commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day3/T3_getAttribute_css.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day4/T000_xpath_getText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day4/T00_css_isDisplayed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day4/T0_forget_password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_21_43__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_21_43__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_19__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_19__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/loop/test/day3/T2_getText_getAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day3/T2_getText_getAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/loop/test/utilities/DocuportConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/utilities/DocuportConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/loop/test/utilities/LoopCampConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/utilities/LoopCampConstants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -21,26 +42,34 @@
     &quot;assignee&quot;: &quot;MaksymMartynenko1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MaksymMartynenko1/B3_Java_Programming.git",
-    "accountId": "d9c7c185-cd08-42ea-bd4d-c06af27e337e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MaksymMartynenko1/B3_Java_Programming.git&quot;,
+    &quot;accountId&quot;: &quot;d9c7c185-cd08-42ea-bd4d-c06af27e337e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2hKmyTJlcC97bRw11y9VFDsFT90" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AllLocatorsPractice.executor": "Run",
+    "Application.GoogleSearch.executor": "Run",
+    "Application.Locators.executor": "Run",
+    "Application.NavigateToAmazon.executor": "Run",
     "Application.SeleniumTest.executor": "Run",
+    "Application.T000_xpath_getText.executor": "Run",
+    "Application.T1_locators_getText.executor": "Run",
+    "Application.T2_getText_getAttribute.executor": "Run",
+    "Application.T3_getAttribute_css.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "day-4",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Тоничка)/IdeaProjects/AutomationProjectB3",
     "node.js.detected.package.eslint": "true",
@@ -48,11 +77,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.tools",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.T000_xpath_getText">
     <configuration name="SeleniumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.day1_select.SeleniumTest" />
       <module name="AutomationProjectB3" />
@@ -66,8 +95,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T000_xpath_getText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.loop.test.day4.T000_xpath_getText" />
+      <module name="AutomationProjectB3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.loop.test.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1_locators_getText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.loop.test.day3.T1_locators_getText" />
+      <module name="AutomationProjectB3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.loop.test.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2_getText_getAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.loop.test.day3.T2_getText_getAttribute" />
+      <module name="AutomationProjectB3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.loop.test.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T3_getAttribute_css" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.loop.test.day3.T3_getAttribute_css" />
+      <module name="AutomationProjectB3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.loop.test.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T000_xpath_getText" />
+        <item itemvalue="Application.T3_getAttribute_css" />
+        <item itemvalue="Application.T2_getText_getAttribute" />
+        <item itemvalue="Application.T1_locators_getText" />
         <item itemvalue="Application.SeleniumTest" />
       </list>
     </recent_temporary>
@@ -75,12 +160,15 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Тоничка)\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="378de140-828f-4986-b4c8-74860c24b3f0" name="Changes" comment="" />
@@ -89,6 +177,10 @@
       <option name="presentableId" value="Default" />
       <updated>1717351397661</updated>
       <workItem from="1717940779478" duration="289000" />
+      <workItem from="1717941097287" duration="370000" />
+      <workItem from="1717941553447" duration="14130000" />
+      <workItem from="1718064674847" duration="988000" />
+      <workItem from="1718067734302" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="first pool">
       <option name="closed" value="true" />
@@ -114,7 +206,47 @@
       <option name="project" value="LOCAL" />
       <updated>1717940705862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first pool">
+      <option name="closed" value="true" />
+      <created>1717941376951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717941376951</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day 3 chenges">
+      <option name="closed" value="true" />
+      <created>1717959546245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717959546245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day 3 chenges">
+      <option name="closed" value="true" />
+      <created>1718065544764</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718065544764</updated>
+    </task>
+    <task id="LOCAL-00007" summary="My first Commit">
+      <option name="closed" value="true" />
+      <created>1718068087966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718068087966</updated>
+    </task>
+    <task id="LOCAL-00008" summary="My first Commit">
+      <option name="closed" value="true" />
+      <created>1718068471410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718068471410</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +265,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first pool" />
-    <option name="LAST_COMMIT_MESSAGE" value="first pool" />
+    <MESSAGE value="day 3 chenges" />
+    <MESSAGE value="My first Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first Commit" />
   </component>
 </project>
