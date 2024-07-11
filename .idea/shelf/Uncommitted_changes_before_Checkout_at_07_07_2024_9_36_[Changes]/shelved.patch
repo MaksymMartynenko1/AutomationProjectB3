@@ -1,0 +1,309 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"378de140-828f-4986-b4c8-74860c24b3f0\" name=\"Changes\" comment=\"day_4\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day4/T1_findElements.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day5/T000_staleElementException.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day5/T00_checkbox.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day5/T0_radioButton.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day5/T1_testNG_intro.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day5/T2_testNG_with_selenium.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day5/T3_simple_dropdown.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/io/loop/test/day5/T4_dropdown_options.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_21_43_[Changes]/shelved.patch\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_21_43__Changes_.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_21_[Changes]/shelved.patch\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_21__Changes_.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_22_[Changes]/shelved.patch\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_22__Changes_.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"day-4\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;MaksymMartynenko1&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/MaksymMartynenko1/AutomationProjectB3.git&quot;,\r\n    &quot;accountId&quot;: &quot;d9c7c185-cd08-42ea-bd4d-c06af27e337e&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2hKmyTJlcC97bRw11y9VFDsFT90\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.AllLocatorsPractice.executor\": \"Run\",\r\n    \"Application.GoogleSearch.executor\": \"Run\",\r\n    \"Application.Locators.executor\": \"Run\",\r\n    \"Application.NavigateToAmazon.executor\": \"Run\",\r\n    \"Application.SeleniumTest.executor\": \"Run\",\r\n    \"Application.T000_staleElementException.executor\": \"Run\",\r\n    \"Application.T000_xpath_getText.executor\": \"Run\",\r\n    \"Application.T00_checkbox.executor\": \"Run\",\r\n    \"Application.T0_forget_password.executor\": \"Run\",\r\n    \"Application.T0_radioButton.executor\": \"Run\",\r\n    \"Application.T1_findElements.executor\": \"Run\",\r\n    \"Application.T1_locators_getText.executor\": \"Run\",\r\n    \"Application.T2_getText_getAttribute.executor\": \"Run\",\r\n    \"Application.T3_getAttribute_css.executor\": \"Run\",\r\n    \"Maven.AutomationProjectB3 [clean].executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"TestNG.T1_testNG_intro.executor\": \"Run\",\r\n    \"TestNG.T1_testNG_intro.test1.executor\": \"Run\",\r\n    \"TestNG.T2_testNG_with_selenium.executor\": \"Run\",\r\n    \"TestNG.T3_simple_dropdown.executor\": \"Run\",\r\n    \"TestNG.T4_dropdown_options.executor\": \"Run\",\r\n    \"git-widget-placeholder\": \"day-5\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Тоничка)/IdeaProjects/AutomationProjectB3\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"advanced.settings\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"TestNG.T4_dropdown_options\">\r\n    <configuration name=\"T1_testNG_intro\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"AutomationProjectB3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"io.loop.test.day5.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"io.loop.test.day5\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"io.loop.test.day5.T1_testNG_intro\" />\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"T1_testNG_intro.test1\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"AutomationProjectB3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"io.loop.test.day5.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"io.loop.test.day5\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"io.loop.test.day5.T1_testNG_intro\" />\r\n      <option name=\"METHOD_NAME\" value=\"test1\" />\r\n      <option name=\"TEST_OBJECT\" value=\"METHOD\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"T2_testNG_with_selenium\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"AutomationProjectB3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"io.loop.test.day5.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"io.loop.test.day5\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"io.loop.test.day5.T2_testNG_with_selenium\" />\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"T3_simple_dropdown\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"AutomationProjectB3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"io.loop.test.day5.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"io.loop.test.day5\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"io.loop.test.day5.T3_simple_dropdown\" />\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"T4_dropdown_options\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"AutomationProjectB3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"io.loop.test.day5.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"io.loop.test.day5\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"io.loop.test.day5.T4_dropdown_options\" />\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"TestNG.T4_dropdown_options\" />\r\n        <item itemvalue=\"TestNG.T3_simple_dropdown\" />\r\n        <item itemvalue=\"TestNG.T2_testNG_with_selenium\" />\r\n        <item itemvalue=\"TestNG.T1_testNG_intro\" />\r\n        <item itemvalue=\"TestNG.T1_testNG_intro.test1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62\" />\r\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration>C:\\Users\\Тоничка)\\AppData\\Roaming\\Subversion</configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"378de140-828f-4986-b4c8-74860c24b3f0\" name=\"Changes\" comment=\"\" />\r\n      <created>1717351397661</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1717351397661</updated>\r\n      <workItem from=\"1717940779478\" duration=\"289000\" />\r\n      <workItem from=\"1717941097287\" duration=\"370000\" />\r\n      <workItem from=\"1717941553447\" duration=\"14130000\" />\r\n      <workItem from=\"1718064674847\" duration=\"988000\" />\r\n      <workItem from=\"1718067734302\" duration=\"742000\" />\r\n      <workItem from=\"1718934388474\" duration=\"58000\" />\r\n      <workItem from=\"1719150005176\" duration=\"14692000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"first pool\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717352412998</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717352412999</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"first pool\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717355472382</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717355472382</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"first pool\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717940705862</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717940705862</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"first pool\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717941376951</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717941376951</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"day 3 chenges\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717959546245</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717959546245</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"day 3 chenges\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718065544764</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718065544764</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"My first Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718068087966</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718068087966</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"My first Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718068471410</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718068471410</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"day_4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718564885385</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718564885385</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"first pool\" />\r\n    <MESSAGE value=\"day 3 chenges\" />\r\n    <MESSAGE value=\"My first Commit\" />\r\n    <MESSAGE value=\"day_4\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"day_4\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,22 +5,16 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="378de140-828f-4986-b4c8-74860c24b3f0" name="Changes" comment="day_4">
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day4/T1_findElements.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T000_staleElementException.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T00_checkbox.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T0_radioButton.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T1_testNG_intro.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T2_testNG_with_selenium.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T3_simple_dropdown.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T4_dropdown_options.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_21_43_[Changes]/shelved.patch" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_21_43__Changes_.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_21_[Changes]/shelved.patch" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_21__Changes_.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_22_[Changes]/shelved.patch" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_22__Changes_.xml" beforeDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/base/TestBase.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day5/T5_multi_dropdown.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day6/T1_alerts.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/test/day6/T2_iframe.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_19__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2024_22_19__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_06_2024_10_00_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_06_2024_10_00__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_06_2024_10_02_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_06_2024_10_02__Changes_.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -37,7 +31,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="day-4" />
++        <entry key="$PROJECT_DIR$" value="main" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -62,71 +56,81 @@
+   <component name="ProjectViewState">
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.AllLocatorsPractice.executor": "Run",
+-    "Application.GoogleSearch.executor": "Run",
+-    "Application.Locators.executor": "Run",
+-    "Application.NavigateToAmazon.executor": "Run",
+-    "Application.SeleniumTest.executor": "Run",
+-    "Application.T000_staleElementException.executor": "Run",
+-    "Application.T000_xpath_getText.executor": "Run",
+-    "Application.T00_checkbox.executor": "Run",
+-    "Application.T0_forget_password.executor": "Run",
+-    "Application.T0_radioButton.executor": "Run",
+-    "Application.T1_findElements.executor": "Run",
+-    "Application.T1_locators_getText.executor": "Run",
+-    "Application.T2_getText_getAttribute.executor": "Run",
+-    "Application.T3_getAttribute_css.executor": "Run",
+-    "Maven.AutomationProjectB3 [clean].executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "TestNG.T1_testNG_intro.executor": "Run",
+-    "TestNG.T1_testNG_intro.test1.executor": "Run",
+-    "TestNG.T2_testNG_with_selenium.executor": "Run",
+-    "TestNG.T3_simple_dropdown.executor": "Run",
+-    "TestNG.T4_dropdown_options.executor": "Run",
+-    "git-widget-placeholder": "day-5",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/Тоничка)/IdeaProjects/AutomationProjectB3",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "advanced.settings",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.AllLocatorsPractice.executor&quot;: &quot;Run&quot;,
++    &quot;Application.GoogleSearch.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Locators.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NavigateToAmazon.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SeleniumTest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T000_staleElementException.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T000_xpath_getText.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T00_checkbox.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T0_forget_password.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T0_radioButton.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T1_findElements.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T1_locators_getText.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T2_getText_getAttribute.executor&quot;: &quot;Run&quot;,
++    &quot;Application.T3_getAttribute_css.executor&quot;: &quot;Run&quot;,
++    &quot;Maven.AutomationProjectB3 [clean].executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;TestNG.T1_alerts.confirmationAlert.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T1_alerts.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T1_alerts.informationAlert.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T1_alerts.promtAlert.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T1_testNG_intro.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T1_testNG_intro.test1.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T2_iframe.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T2_iframe.iframeTest (1).executor&quot;: &quot;Debug&quot;,
++    &quot;TestNG.T2_iframe.iframeTest.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T2_iframe.nestedFrame.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T2_testNG_with_selenium.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T3_simple_dropdown.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T4_dropdown_options.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.T5_multi_dropdown.executor&quot;: &quot;Run&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;day6&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Тоничка)/IdeaProjects/AutomationProjectB3&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
+-  <component name="RunManager" selected="TestNG.T4_dropdown_options">
+-    <configuration name="T1_testNG_intro" type="TestNG" temporary="true" nameIsGenerated="true">
++}</component>
++  <component name="RunManager" selected="TestNG.T2_iframe.nestedFrame">
++    <configuration name="T1_alerts.informationAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+       <module name="AutomationProjectB3" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="io.loop.test.day5.*" />
++          <option name="PATTERN" value="io.loop.test.day6.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+-      <option name="PACKAGE_NAME" value="io.loop.test.day5" />
+-      <option name="MAIN_CLASS_NAME" value="io.loop.test.day5.T1_testNG_intro" />
+-      <option name="TEST_OBJECT" value="CLASS" />
++      <option name="PACKAGE_NAME" value="io.loop.test.day6" />
++      <option name="MAIN_CLASS_NAME" value="io.loop.test.day6.T1_alerts" />
++      <option name="METHOD_NAME" value="informationAlert" />
++      <option name="TEST_OBJECT" value="METHOD" />
+       <properties />
+       <listeners />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="T1_testNG_intro.test1" type="TestNG" temporary="true" nameIsGenerated="true">
++    <configuration name="T1_alerts.promtAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+       <module name="AutomationProjectB3" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="io.loop.test.day5.*" />
++          <option name="PATTERN" value="io.loop.test.day6.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+-      <option name="PACKAGE_NAME" value="io.loop.test.day5" />
+-      <option name="MAIN_CLASS_NAME" value="io.loop.test.day5.T1_testNG_intro" />
+-      <option name="METHOD_NAME" value="test1" />
++      <option name="PACKAGE_NAME" value="io.loop.test.day6" />
++      <option name="MAIN_CLASS_NAME" value="io.loop.test.day6.T1_alerts" />
++      <option name="METHOD_NAME" value="promtAlert" />
+       <option name="TEST_OBJECT" value="METHOD" />
+       <properties />
+       <listeners />
+@@ -134,16 +138,16 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="T2_testNG_with_selenium" type="TestNG" temporary="true" nameIsGenerated="true">
++    <configuration name="T2_iframe" type="TestNG" temporary="true" nameIsGenerated="true">
+       <module name="AutomationProjectB3" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="io.loop.test.day5.*" />
++          <option name="PATTERN" value="io.loop.test.day6.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+-      <option name="PACKAGE_NAME" value="io.loop.test.day5" />
+-      <option name="MAIN_CLASS_NAME" value="io.loop.test.day5.T2_testNG_with_selenium" />
++      <option name="PACKAGE_NAME" value="io.loop.test.day6" />
++      <option name="MAIN_CLASS_NAME" value="io.loop.test.day6.T2_iframe" />
+       <option name="TEST_OBJECT" value="CLASS" />
+       <properties />
+       <listeners />
+@@ -151,34 +155,36 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="T3_simple_dropdown" type="TestNG" temporary="true" nameIsGenerated="true">
++    <configuration name="T2_iframe.iframeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+       <module name="AutomationProjectB3" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="io.loop.test.day5.*" />
++          <option name="PATTERN" value="io.loop.test.day6.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+-      <option name="PACKAGE_NAME" value="io.loop.test.day5" />
+-      <option name="MAIN_CLASS_NAME" value="io.loop.test.day5.T3_simple_dropdown" />
+-      <option name="TEST_OBJECT" value="CLASS" />
++      <option name="PACKAGE_NAME" value="io.loop.test.day6" />
++      <option name="MAIN_CLASS_NAME" value="io.loop.test.day6.T2_iframe" />
++      <option name="METHOD_NAME" value="iframeTest" />
++      <option name="TEST_OBJECT" value="METHOD" />
+       <properties />
+       <listeners />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="T4_dropdown_options" type="TestNG" temporary="true" nameIsGenerated="true">
++    <configuration name="T2_iframe.nestedFrame" type="TestNG" temporary="true" nameIsGenerated="true">
+       <module name="AutomationProjectB3" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="io.loop.test.day5.*" />
++          <option name="PATTERN" value="io.loop.test.day6.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+-      <option name="PACKAGE_NAME" value="io.loop.test.day5" />
+-      <option name="MAIN_CLASS_NAME" value="io.loop.test.day5.T4_dropdown_options" />
+-      <option name="TEST_OBJECT" value="CLASS" />
++      <option name="PACKAGE_NAME" value="io.loop.test.day6" />
++      <option name="MAIN_CLASS_NAME" value="io.loop.test.day6.T2_iframe" />
++      <option name="METHOD_NAME" value="nestedFrame" />
++      <option name="TEST_OBJECT" value="METHOD" />
+       <properties />
+       <listeners />
+       <method v="2">
+@@ -187,11 +193,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="TestNG.T4_dropdown_options" />
+-        <item itemvalue="TestNG.T3_simple_dropdown" />
+-        <item itemvalue="TestNG.T2_testNG_with_selenium" />
+-        <item itemvalue="TestNG.T1_testNG_intro" />
+-        <item itemvalue="TestNG.T1_testNG_intro.test1" />
++        <item itemvalue="TestNG.T2_iframe.nestedFrame" />
++        <item itemvalue="TestNG.T2_iframe.iframeTest" />
++        <item itemvalue="TestNG.T2_iframe" />
++        <item itemvalue="TestNG.T1_alerts.promtAlert" />
++        <item itemvalue="TestNG.T1_alerts.informationAlert" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -221,6 +227,9 @@
+       <workItem from="1718067734302" duration="742000" />
+       <workItem from="1718934388474" duration="58000" />
+       <workItem from="1719150005176" duration="14692000" />
++      <workItem from="1719876960790" duration="5000" />
++      <workItem from="1719883581079" duration="440000" />
++      <workItem from="1720276118312" duration="704000" />
+     </task>
+     <task id="LOCAL-00001" summary="first pool">
+       <option name="closed" value="true" />
+Index: src/test/java/io/loop/test/base/TestBase.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/io/loop/test/base/TestBase.java b/src/test/java/io/loop/test/base/TestBase.java
+new file mode 100644
+--- /dev/null	
++++ b/src/test/java/io/loop/test/base/TestBase.java	
+@@ -0,0 +1,24 @@
++package io.loop.test.base;
++
++import io.loop.test.utilities.WebDriverUtil;
++import org.openqa.selenium.WebDriver;
++import org.testng.annotations.AfterMethod;
++import org.testng.annotations.BeforeMethod;
++
++public class TestBase {
++
++
++    public WebDriver driver;
++
++    @BeforeMethod
++    public void setUpMethod(){
++        driver = WebDriverUtil.getDriver("chrome");
++        driver.manage().window().maximize();
++    }
++
++    //@AfterMethod
++    public void tearDownMethod(){
++        driver.close();
++    }
++
++}
+\ No newline at end of file
