@@ -48,8 +48,8 @@ public class DocuportUtils {
             cont.click();
             Thread.sleep(3000);
         }
-
     }
+
     /**
      * logs out from Docuport application
      * @param driver
@@ -69,6 +69,4 @@ public class DocuportUtils {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
     }
-
-
 }
